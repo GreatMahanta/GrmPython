@@ -24,3 +24,5 @@ TestResults.xml
 .venv/
 #MyPY Files
 .mypy_cache/
+#Configuration  files
+pyvenv.cfg
